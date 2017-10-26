@@ -1,0 +1,24 @@
+Quantities
+==========
+
+dens* - Density                         - 1/fm^3
+xm*   - Effective mass                  - MeV
+mu*   - Chemical potential              - MeV
+nu*   - Effective chemical potential    - MeV
+E*    - Energy density                  - MeV/fm^3
+P*    - Pressure                        - MeV/fm^3
+S*    - Entropy density                 - 1/fm^3
+U*    - E* from thermodynamic relations - MeV/fm^3
+chi   - Quark phase volume fraction     - Dimensionless
+T     - Temperature                     - MeV
+
+Particles
+=========
+u - Up quark
+d - Down quark
+s - Strange quark
+p - Proton
+n - Neutron
+e - Electron
+m - Muon
+v - (Electron) neutrino
